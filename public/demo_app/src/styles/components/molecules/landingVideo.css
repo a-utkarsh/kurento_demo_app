@@ -1,0 +1,14 @@
+.landingVideoContainer {
+	width : 740px;
+	height : 416px;
+	min-width: 480px;
+	position: relative;
+	overflow: hidden;
+	background-color: #202124;
+	border-radius: 8px;
+	max-width: 740px;
+}
+
+.landingVideoContainer video {
+	
+}
